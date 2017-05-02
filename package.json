@@ -1,0 +1,26 @@
+{
+  "name": "mushare",
+  "version": "0.0.1",
+  "description": "website for mushare",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mushare",
+    "react",
+    "webpack"
+  ],
+  "author": "lee",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.0",
+    "webpack": "^2.4.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
